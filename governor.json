@@ -1,1 +1,27 @@
-{"dataId":"","timeCreated":"0001-01-01T00:00:00Z","timePublished":"2018-10-17T18:03:16.130092401Z","year":"","office":"governor","outlook":"Republicans currently control 33 governorships to Democrats’ 16, with one Independent in Alaska.Democrats most likely to gain 6-8 governorships, but greater gains are possible.","totals":{"democrat":19,"details":{"currentlySafeDemocrat":3,"currentlySafeRepublican":9,"democratFavored":3,"leanDemocrat":6,"leanRepublican":3,"notUpThisCycleDemocrat":7,"notUpThisCycleRepublican":7,"pureTossUp":2,"republicanFavored":3,"tossUpTiltDemocrat":3,"tossUpTiltRepublican":4},"republican":22,"tossup":9},"type":""}
+{
+  "dataId": "",
+  "timeCreated": "0001-01-01T00:00:00Z",
+  "timePublished": "2018-10-17T18:03:16.130092401Z",
+  "year": "",
+  "office": "governor",
+  "outlook": "Republicans currently control 33 governorships to Democrats’ 16, with one Independent in Alaska.Democrats most likely to gain 6-8 governorships, but greater gains are possible.",
+  "totals": {
+    "democrat": 19,
+    "details": {
+      "currentlySafeDemocrat": 3,
+      "currentlySafeRepublican": 9,
+      "democratFavored": 3,
+      "leanDemocrat": 6,
+      "leanRepublican": 3,
+      "notUpThisCycleDemocrat": 7,
+      "notUpThisCycleRepublican": 7,
+      "pureTossUp": 2,
+      "republicanFavored": 3,
+      "tossUpTiltDemocrat": 3,
+      "tossUpTiltRepublican": 4
+    },
+    "republican": 22,
+    "tossup": 9
+  },
+  "type": ""
+}
