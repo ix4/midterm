@@ -1,0 +1,1212 @@
+state,office,district,name,party,candidate_incumbent,grade,endorsed
+Alabama,Attorney General,,Joseph Siegelman,D,Candidate,?,N
+Alabama,Attorney General,,Steven T. Marshall,R,Incumbent,A,Y
+Alabama,Governor,,Walt Maddox,D,Candidate,F,N
+Alabama,Governor,,Kay E. Ivey,R,Incumbent,A,Y
+Alabama,Lieutenant Governor,,Will E. Boyd,D,Candidate,F,N
+Alabama,Lieutenant Governor,,William Ainsworth,R,Candidate,A,Y
+Alabama,Secretary of State,,Heather Milam,D,Candidate,D,N
+Alabama,Secretary of State,,John H. Merrill,R,Incumbent,A,Y
+Alabama,US House,1,"Robert Kennedy, Jr.",D,Candidate,?,N
+Alabama,US House,1,Bradley Byrne,R,Incumbent,A,Y
+Alabama,US House,2,Tabitha Isner,D,Candidate,F,N
+Alabama,US House,2,Martha Roby,R,Incumbent,A,Y
+Alabama,US House,3,Mallory Hagan,D,Candidate,F,N
+Alabama,US House,3,Mike Rogers,R,Incumbent,A+,Y
+Alabama,US House,4,Lee Auman,D,Candidate,F,N
+Alabama,US House,4,Robert Aderholt,R,Incumbent,A,Y
+Alabama,US House,5,Peter Joffrion,D,Candidate,F,N
+Alabama,US House,5,Mo Brooks,R,Incumbent,A,Y
+Alabama,US House,6,Danner Kline,D,Candidate,F,N
+Alabama,US House,6,Gary Palmer,R,Incumbent,A,Y
+Alabama,US House,7,Terri Sewell,D,Incumbent,D,N
+Alaska,Governor,,Mark Begich,D,Candidate,?,N
+Alaska,Governor,,Bill Walker,I,Incumbent,D,N
+Alaska,Governor,,Michael J. Dunleavy,R,Candidate,A,Y
+Alaska,Lieutenant Governor,,Debra L. Call,D,Candidate,?,N
+Alaska,Lieutenant Governor,,Byron I. Mallott,I,Incumbent,D,N
+Alaska,Lieutenant Governor,,Kevin G. Meyer,R,Candidate,A,Y
+Alaska,US House,,Alyse Galvin,D,Candidate,?,N
+Alaska,US House,,Don Young,R,Incumbent,A+,Y
+Arizona,Attorney General,,January Contreras,D,Candidate,C,N
+Arizona,Attorney General,,Mark Brnovich,R,Incumbent,A,Y
+Arizona,Governor,,David R. Garcia,D,Candidate,F,N
+Arizona,Governor,,Doug Ducey,R,Incumbent,A,Y
+Arizona,Secretary of State,,Katie Hobbs,D,Candidate,F,N
+Arizona,Secretary of State,,Steve Gaynor,R,Candidate,A-,Y
+Arizona,State Treasurer,,Kimberly Yee,R,Candidate,A,Y
+Arizona,State Treasurer,,Mark Manoil,R,Candidate,?,N
+Arizona,US House,1,Tom O'Halleran,D,Incumbent,F,N
+Arizona,US House,1,Wendy Rogers,R,Candidate,AQ,Y
+Arizona,US House,2,Ann Kirkpatrick,D,Candidate,F,N
+Arizona,US House,2,Lea Marquez-Peterson,R,Candidate,AQ,Y
+Arizona,US House,3,Raul Grijalva,D,Incumbent,F,N
+Arizona,US House,3,Nick Pierson,R,Candidate,?,N
+Arizona,US House,4,David Brill,D,Candidate,F,N
+Arizona,US House,4,Paul Gosar,R,Incumbent,A-,Y
+Arizona,US House,5,Joan Greene,D,Candidate,F,N
+Arizona,US House,5,Andy Biggs,R,Incumbent,A,Y
+Arizona,US House,6,Anita Malik,D,Candidate,F,N
+Arizona,US House,6,David Schweikert,R,Incumbent,A,Y
+Arizona,US House,7,Ruben Gallego,D,Incumbent,F,N
+Arizona,US House,8,Hiral Tipirneni,D,Candidate,F,N
+Arizona,US House,8,Debbie Lesko,R,Incumbent,A,Y
+Arizona,US House,9,Greg Stanton,D,Candidate,F,N
+Arizona,US House,9,Steve Ferrara,R,Candidate,AQ,N
+Arizona,US Senate,,Kyrsten Sinema,D,Candidate,D,N
+Arizona,US Senate,,Martha McSally,R,Candidate,A,Y
+Arkansas,Attorney General,,Mike Lee,D,Candidate,?,N
+Arkansas,Attorney General,,Leslie Rutledge,R,Incumbent,A,Y
+Arkansas,Governor,,Jared Henderson,D,Candidate,?,N
+Arkansas,Governor,,Asa Hutchinson,R,Incumbent,A-,Y
+Arkansas,Lieutenant Governor,,Anthony Bland,D,Candidate,F,N
+Arkansas,Lieutenant Governor,,Timothy Griffin,R,Incumbent,A,Y
+Arkansas,Secretary of State,,Susan Inman,D,Candidate,?,N
+Arkansas,Secretary of State,,John M. Thurston,R,Candidate,AQ,Y
+Arkansas,US House,1,Chintan Desai,D,Candidate,F,N
+Arkansas,US House,1,Rick Crawford,R,Incumbent,A,Y
+Arkansas,US House,2,Clarke Tucker,D,Candidate,F,N
+Arkansas,US House,2,French Hill,R,Incumbent,A,Y
+Arkansas,US House,3,Josh Mahony,D,Candidate,F,N
+Arkansas,US House,3,Steve Womack,R,Incumbent,A,Y
+Arkansas,US House,4,Hayden Shamel,D,Candidate,D,N
+Arkansas,US House,4,Bruce Westerman,R,Incumbent,A,Y
+California,Attorney General,,Xavier Becerra,D,Incumbent,F,N
+California,Attorney General,,Steven Bailey,R,Candidate,AQ,Y
+California,Governor,,Gavin Newsom,D,Candidate,F,N
+California,Governor,,John Cox,R,Candidate,AQ,Y
+California,Lieutenant Governor,,Ed Hernandez,D,Candidate,F,N
+California,Lieutenant Governor,,Eleni Kounalakis,D,Candidate,F,N
+California,Secretary of State,,Alex Padilla,D,Incumbent,F,N
+California,Secretary of State,,Mark Meuser,R,Candidate,?,N
+California,US House,1,Audrey Denney,D,Candidate,F,N
+California,US House,1,Doug LaMalfa,R,Incumbent,A,Y
+California,US House,2,Jared Huffman,D,Incumbent,F,N
+California,US House,2,Dale Mensing,R,Candidate,AQ,N
+California,US House,3,John Garamendi,D,Incumbent,F,N
+California,US House,3,Charlie Schaupp,R,Candidate,AQ,N
+California,US House,4,Jessica Morse,D,Candidate,F,N
+California,US House,4,Tom McClintock,R,Incumbent,A,Y
+California,US House,5,Mike Thompson,D,Incumbent,F,N
+California,US House,5,Anthony Mills,NPP,Candidate,?,N
+California,US House,6,Doris Matsui,D,Incumbent,F,N
+California,US House,6,Jrmar Jefferson,D,Candidate,?,N
+California,US House,7,Ami Bera,D,Incumbent,F,N
+California,US House,7,Andrew Grant,R,Candidate,AQ,Y
+California,US House,8,Paul Cook,R,Incumbent,A,Y
+California,US House,8,Tim Donnelly,R,Candidate,A,N
+California,US House,9,Jerry McNerney,D,Incumbent,F,N
+California,US House,9,Marla Livengood,R,Candidate,AQ,N
+California,US House,10,Josh Harder,D,Candidate,F,N
+California,US House,10,Jeff Denham,R,Incumbent,A,Y
+California,US House,11,Mark DeSaulnier,D,Incumbent,F,N
+California,US House,11,John Fitzgerald,R,Candidate,?,N
+California,US House,12,Nancy Pelosi,D,Incumbent,F,N
+California,US House,12,Lisa Remmer,R,Candidate,AQ,N
+California,US House,13,Barbara Lee,D,Incumbent,F,N
+California,US House,13,Laura Wells,GR,Candidate,?,N
+California,US House,14,Jackie Speier,D,Incumbent,F,N
+California,US House,14,Cristina Osmena,R,Candidate,?,N
+California,US House,15,Eric Swalwell,D,Incumbent,F,N
+California,US House,15,Rudy Peters,R,Candidate,AQ,N
+California,US House,16,Jim Costa,D,Incumbent,F,N
+California,US House,16,Elizabeth Heng,R,Candidate,?,N
+California,US House,17,Ro Khanna,D,Incumbent,F,N
+California,US House,17,Ron Cohen,R,Candidate,?,N
+California,US House,18,Anna Eshoo,D,Incumbent,F,N
+California,US House,18,Christine Russell,R,Candidate,?,N
+California,US House,19,Zoe Lofgren,D,Incumbent,F,N
+California,US House,19,Justin Aguilera,R,Candidate,AQ,N
+California,US House,20,Jimmy Panetta,D,Incumbent,F,N
+California,US House,20,Ronald Kabat,NPP,Candidate,AQ,N
+California,US House,21,T.J. Cox,D,Candidate,F,N
+California,US House,21,David Valadao,R,Incumbent,A,Y
+California,US House,22,Andrew Janz,D,Candidate,F,N
+California,US House,22,Devin Nunes,R,Incumbent,A,Y
+California,US House,23,Tatiana Matta,D,Candidate,F,N
+California,US House,23,Kevin McCarthy,R,Incumbent,A+,Y
+California,US House,24,Salud Carbajal,D,Incumbent,F,N
+California,US House,24,Justin Fareed,R,Candidate,AQ,N
+California,US House,25,Katie Hill,D,Candidate,F,N
+California,US House,25,Steve Knight,R,Incumbent,A,Y
+California,US House,26,Julia Brownley,D,Incumbent,F,N
+California,US House,26,"Antonio Sabato, Jr.",R,Candidate,AQ,N
+California,US House,27,Judy Chu,D,Incumbent,F,N
+California,US House,27,Bryan Witt,D,Candidate,F,N
+California,US House,28,Adam Schiff,D,Incumbent,F,N
+California,US House,28,Johnny Nalbandian,R,Candidate,AQ,N
+California,US House,29,Tony Cardenas,D,Incumbent,F,N
+California,US House,29,Benito Benny Bernal,R,Candidate,AQ,N
+California,US House,30,Brad Sherman,D,Incumbent,F,N
+California,US House,30,Mark Reed,R,Candidate,AQ,N
+California,US House,31,Pete Aguilar,D,Incumbent,F,N
+California,US House,31,Sean Flynn,R,Candidate,AQ,N
+California,US House,32,Grace Napolitano,D,Incumbent,F,N
+California,US House,32,Joshua Scott,R,Candidate,?,N
+California,US House,33,Ted Lieu,D,Incumbent,F,N
+California,US House,33,Kenneth Wright,R,Candidate,?,N
+California,US House,34,Jimmy Gomez,D,Incumbent,F,N
+California,US House,34,Kenneth Mejia,GR,Candidate,?,N
+California,US House,35,Norma Torres,D,Incumbent,F,N
+California,US House,35,Christian Valiente,R,Candidate,?,N
+California,US House,36,Raul Ruiz,D,Incumbent,F,N
+California,US House,36,Kimberlin Brown Pelzer,R,Candidate,AQ,Y
+California,US House,37,Karen Bass,D,Incumbent,F,N
+California,US House,37,Ron Bassilian,R,Candidate,?,N
+California,US House,38,Linda Sanchez,D,Incumbent,F,N
+California,US House,38,Ryan Downing,R,Candidate,?,N
+California,US House,39,Gil Cisneros,D,Candidate,F,N
+California,US House,39,Young Kim,R,Candidate,A,Y
+California,US House,40,Lucille Roybal-Allard,D,Incumbent,F,N
+California,US House,40,Rodolfo Cortes Barragan,GR,Candidate,?,N
+California,US House,41,Mark Takano,D,Incumbent,F,N
+California,US House,41,Aja Smith,R,Candidate,AQ,N
+California,US House,42,Julia Peacock,D,Candidate,F,N
+California,US House,42,Ken Calvert,R,Incumbent,A,Y
+California,US House,43,Maxine Waters,D,Incumbent,F,N
+California,US House,43,Omar Navarro,R,Candidate,AQ,N
+California,US House,44,Nanette Barragan,D,Incumbent,F,N
+California,US House,44,Aja Brown,D,Candidate,F,N
+California,US House,45,Katie Porter,D,Candidate,F,N
+California,US House,45,Mimi Walters,R,Incumbent,A,Y
+California,US House,46,Lou Correa,D,Incumbent,F,N
+California,US House,46,Russell Lambert,R,Candidate,AQ,N
+California,US House,47,Alan Lowenthal,D,Incumbent,F,N
+California,US House,47,John Briscoe,R,Candidate,AQ,N
+California,US House,48,Harley Rouda,D,Candidate,F,N
+California,US House,48,Dana Rohrabacher,R,Incumbent,A,Y
+California,US House,49,Mike Levin,D,Candidate,F,N
+California,US House,49,Diane Harkey,R,Candidate,A,Y
+California,US House,50,Ammar Campa-Najjar,D,Candidate,F,N
+California,US House,50,Duncan Hunter,R,Incumbent,A,Y
+California,US House,51,Juan Vargas,D,Incumbent,F,N
+California,US House,51,Juan Hidalgo Jr.,R,Candidate,AQ,N
+California,US House,52,Scott Peters,D,Incumbent,F,N
+California,US House,52,Omar Qudrat,R,Candidate,?,N
+California,US House,53,Susan Davis,D,Incumbent,F,N
+California,US House,53,Morgan Murtaugh,R,Candidate,?,N
+California,US Senate,,Dianne Feinstein,D,Incumbent,F,N
+California,US Senate,,Kevin de Leon,D,Candidate,F,N
+Colorado,Attorney General,,Phil Weiser,D,Candidate,F,N
+Colorado,Attorney General,,George Brauchler,R,Candidate,AQ,Y
+Colorado,Governor,,Jared S. Polis,D,Candidate,F,N
+Colorado,Governor,,Walker R. Stapleton,R,Candidate,A,Y
+Colorado,Secretary of State,,Jena Griswold,D,Candidate,?,N
+Colorado,Secretary of State,,Wayne W. Williams,R,Incumbent,A,Y
+Colorado,Treasurer,,David L. Young,D,Candidate,F,N
+Colorado,Treasurer,,Brian Watson,R,Candidate,AQ,Y
+Colorado,US House,1,Diana DeGette,D,Incumbent,F,N
+Colorado,US House,1,"Charles ""Casper"" Stockham",R,Candidate,AQ,N
+Colorado,US House,2,Joe Neguse,D,Candidate,F,N
+Colorado,US House,2,Peter Yu,R,Candidate,?,N
+Colorado,US House,3,Diane Mitsch Bush,D,Candidate,F,N
+Colorado,US House,3,Scott Tipton,R,Incumbent,A,Y
+Colorado,US House,4,Karen McCormick,D,Candidate,F,N
+Colorado,US House,4,Ken Buck,R,Incumbent,A-,Y
+Colorado,US House,5,Stephany Rose Spaulding,D,Candidate,F,N
+Colorado,US House,5,Doug Lamborn,R,Incumbent,A,Y
+Colorado,US House,6,Jason Crow,D,Candidate,F,N
+Colorado,US House,6,Mike Coffman,R,Incumbent,A,Y
+Colorado,US House,7,Ed Perlmutter,D,Incumbent,F,N
+Colorado,US House,7,Mark Barrington,R,Candidate,?,N
+Connecticut,Attorney General,,William M. Tong,D,Candidate,F,N
+Connecticut,Attorney General,,Susan W. Hatfield,R,Candidate,?,N
+Connecticut,Governor,,Edward M. Lamont,D,Candidate,F,N
+Connecticut,Governor,,Bob Stefanowski,R,Candidate,AQ,Y
+Connecticut,Lieutenant Governor,,Susan Bysiewicz,D,Candidate,F,N
+Connecticut,Lieutenant Governor,,Joseph C. Markley,R,Candidate,A+,Y
+Connecticut,Secretary of State,,Denise W. Merrill,D,Incumbent,F,N
+Connecticut,Secretary of State,,Susan L. Chapman,R,Candidate,?,N
+Connecticut,Treasurer,,Shawn T. Wooden,D,Candidate,F,N
+Connecticut,Treasurer,,Thaddeus I. Gray,R,Candidate,AQ,N
+Connecticut,US House,1,John Larson,D,Incumbent,F,N
+Connecticut,US House,1,Jennifer Nye,R,Candidate,?,N
+Connecticut,US House,2,Joe Courtney,D,Incumbent,F,N
+Connecticut,US House,2,Dan Postemski,R,Candidate,AQ,N
+Connecticut,US House,3,Rosa DeLauro,D,Incumbent,F,N
+Connecticut,US House,3,Angel Cadena,R,Candidate,?,N
+Connecticut,US House,4,Jim Himes,D,Incumbent,F,N
+Connecticut,US House,4,Harry Arora,R,Candidate,D,N
+Connecticut,US House,5,Jahana Hayes,D,Candidate,F,N
+Connecticut,US House,5,Manny Santos,R,Candidate,AQ,N
+Connecticut,US Senate,,Chris Murphy,D,Incumbent,F,N
+Connecticut,US Senate,,Matthew Corey,R,Candidate,AQ,N
+Delaware,Attorney General,,Kathleen Jennings,D,Candidate,F,N
+Delaware,Attorney General,,Bernard Pepukayi,R,Candidate,?,N
+Delaware,US House,1,Lisa Blunt Rochester,D,Incumbent,F,N
+Delaware,US House,1,Scott Walker,R,Candidate,?,N
+Delaware,US Senate,,Tom Carper,D,Incumbent,F,N
+Delaware,US Senate,,Rob Arlett,R,Candidate,AQ,N
+Florida,Attorney General,,Sean Shaw,D,Candidate,Fx,N
+Florida,Attorney General,,Ashley Moody,R,Candidate,A,Y
+Florida,Chief Financial Officer,,Jeremy Ring,D,Candidate,D,N
+Florida,Chief Financial Officer,,Jimmy Patronis,R,Incumbent,A+,Y
+Florida,Commissioner of Agriculture,,Nicole Fried,D,Candidate,F,N
+Florida,Commissioner of Agriculture,,Matt Caldwell,R,Incumbent,A+,Y
+Florida,Governor,,Andrew Gillum,D,Candidate,Fx,N
+Florida,Governor,,Ron DeSantis,R,Candidate,A,Y
+Florida,US House,1,Jennifer Zimmerman,D,Candidate,Fx,N
+Florida,US House,1,Matt Gaetz,R,Incumbent,A+,Y
+Florida,US House,2,Bob Rackleff,D,Candidate,Fx,N
+Florida,US House,2,Neal Dunn,R,Incumbent,A,Y
+Florida,US House,3,Yvonne Hayes Hinson,D,Candidate,Fx,N
+Florida,US House,3,Ted Yoho,R,Incumbent,A,Y
+Florida,US House,4,Ges Selmont,D,Candidate,Fx,N
+Florida,US House,4,John Rutherford,R,Incumbent,A,Y
+Florida,US House,5,Al Lawson,D,Incumbent,F,N
+Florida,US House,5,Virginia Fuller,R,Candidate,?,N
+Florida,US House,6,Nancy Soderberg,D,Candidate,F,N
+Florida,US House,6,Mike Waltz,R,Candidate,AQ,Y
+Florida,US House,7,Stephanie Murphy,D,Incumbent,Fx,N
+Florida,US House,7,Mike Miller,R,Candidate,A,Y
+Florida,US House,8,Sanjay Patel,D,Candidate,Fx,N
+Florida,US House,8,Bill Posey,R,Incumbent,A,Y
+Florida,US House,9,Darren Soto,D,Incumbent,Fx,N
+Florida,US House,9,Wayne Liebnitzky,R,Candidate,AQ,N
+Florida,US House,10,Val Demings,D,Incumbent,Fx,N
+Florida,US House,11,Dana Cottrell,D,Candidate,Fx,N
+Florida,US House,11,Daniel Webster,R,Incumbent,A,Y
+Florida,US House,12,Chris Hunter,D,Candidate,Fx,N
+Florida,US House,12,Gus Bilirakis,R,Incumbent,A,Y
+Florida,US House,13,Charlie Crist,D,Incumbent,Fx,N
+Florida,US House,13,George Buck,R,Candidate,AQ,N
+Florida,US House,14,Kathy Castor,D,Incumbent,F,N
+Florida,US House,15,Kristen Carlson,D,Candidate,Fx,N
+Florida,US House,15,Ross Spano,R,Candidate,A+,Y
+Florida,US House,16,David Shapiro,D,Candidate,Fx,N
+Florida,US House,16,Vern Buchanan,R,Incumbent,A,Y
+Florida,US House,17,April Freeman,D,Candidate,F,N
+Florida,US House,17,Greg Steube,R,Candidate,A+,Y
+Florida,US House,18,Lauren Baer,D,Candidate,Fx,N
+Florida,US House,18,Brian Mast,R,Incumbent,F,N
+Florida,US House,19,David Holden,D,Candidate,Fx,N
+Florida,US House,19,Francis Rooney,R,Incumbent,A,Y
+Florida,US House,20,Alcee Hastings,D,Incumbent,Fx,N
+Florida,US House,21,Lois Frankel,D,Incumbent,F,N
+Florida,US House,22,Ted Deutch,D,Incumbent,Fx,N
+Florida,US House,22,Nicolas Kimaz,R,Candidate,AQ,N
+Florida,US House,23,Debbie Wasserman Schultz,D,Incumbent,Fx,N
+Florida,US House,23,Joe Kaufman,R,Candidate,AQ,N
+Florida,US House,24,Frederica Wilson,D,Incumbent,F,N
+Florida,US House,25,Mary Barzee Flores,D,Candidate,Fx,N
+Florida,US House,25,Mario Diaz-Balart,R,Incumbent,A,Y
+Florida,US House,26,Debbie Mucarsel-Powell,D,Candidate,Fx,N
+Florida,US House,26,Carlos Curbelo,R,Incumbent,Fx,N
+Florida,US House,27,Donna Shalala,D,Candidate,Fx,N
+Florida,US House,27,Maria Elvira Salazar,R,Candidate,?,N
+Florida,US Senate,,Bill Nelson,D,Incumbent,Fx,N
+Florida,US Senate,,Rick Scott,R,Candidate,C,N
+Georgia,Attorney General,,Charlie Bailey,D,Candidate,D,N
+Georgia,Attorney General,,Chris Carr,R,Incumbent,A,Y
+Georgia,Governor,,Stacey Y. Abrams,D,Candidate,F,N
+Georgia,Governor,,Brian P. Kemp,R,Candidate,A,Y
+Georgia,Lieutenant Governor,,Sara Riggs Amico,D,Candidate,?,N
+Georgia,Lieutenant Governor,,Geoff L. Duncan,R,Candidate,A,Y
+Georgia,Secretary of State,,John J. Barrow,D,Candidate,A-,N
+Georgia,Secretary of State,,Brad Raffensperger,R,Candidate,A,N
+Georgia,US House,1,Lisa M. Ring,D,Candidate,F,N
+Georgia,US House,1,"Earl L. ""Buddy"" Carter",R,Incumbent,A,Y
+Georgia,US House,2,Sanford Bishop,D,Incumbent,A,Y
+Georgia,US House,2,Herman West Jr.,R,Candidate,AQ,N
+Georgia,US House,3,Chuck Enderlin,D,Candidate,F,N
+Georgia,US House,3,Drew Ferguson,R,Incumbent,A,Y
+Georgia,US House,4,"Henry C. ""Hank"" Johnson, Jr.",D,Incumbent,F,N
+Georgia,US House,4,Joe Profit,R,Candidate,?,N
+Georgia,US House,5,John R. Lewis,D,Incumbent,F,N
+Georgia,US House,6,Lucy McBath,D,Candidate,F,N
+Georgia,US House,6,Karen Handel,R,Incumbent,A,Y
+Georgia,US House,7,Carolyn Bourdeaux,D,Candidate,F,N
+Georgia,US House,7,Rob Woodall,R,Incumbent,A,Y
+Georgia,US House,8,Austin Scott,R,Incumbent,A,Y
+Georgia,US House,9,Josh McCall,D,Candidate,F,N
+Georgia,US House,9,Doug Collins,R,Incumbent,A,Y
+Georgia,US House,10,Tabitha A. Johnson-Green,D,Candidate,F,N
+Georgia,US House,10,Jody Hice,R,Incumbent,A,Y
+Georgia,US House,11,"Flynn D. Broady, Jr.",D,Candidate,F,N
+Georgia,US House,11,Barry Loudermilk,R,Incumbent,A,Y
+Georgia,US House,12,Francys Johnson,D,Candidate,F,N
+Georgia,US House,12,Rick W. Allen,R,Incumbent,A,Y
+Georgia,US House,13,David Scott,D,Incumbent,F,N
+Georgia,US House,13,David Callahan,R,Candidate,B-,N
+Georgia,US House,14,Steven Lamar Foster,D,Candidate,D,N
+Georgia,US House,14,Tom Graves,R,Incumbent,A+,Y
+Hawaii,Governor,,David Y. Ige,D,Incumbent,D,N
+Hawaii,Governor,,Andria P.L. Tupola,R,Candidate,A,Y
+Hawaii,Lieutenant Governor,,Josh B. Green,D,Candidate,F,N
+Hawaii,Lieutenant Governor,,Marisa D. Kerns,R,Candidate,AQ,N
+Hawaii,US House,1,Ed Case,D,Candidate,F,N
+Hawaii,US House,1,Cam Cavasso,R,Candidate,AQ,N
+Hawaii,US House,2,Tulsi Gabbard,D,Incumbent,F,N
+Hawaii,US House,2,Brian Evans,R,Candidate,AQ,N
+Hawaii,US Senate,,Mazie Hirono,D,Incumbent,F,N
+Hawaii,US Senate,,Ron Curtis,R,Candidate,?,N
+Idaho,Attorney General,,Bruce S. Bistline,D,Candidate,?,N
+Idaho,Attorney General,,Lawrence G. Wasden,R,Incumbent,A,Y
+Idaho,Governor,,Paulette E. Jordan,D,Candidate,F,N
+Idaho,Governor,,Brad J. Little,R,Candidate,A,Y
+Idaho,Lieutenant Governor,,Kristin Collum,D,Candidate,?,N
+Idaho,Lieutenant Governor,,Janice K. McGeachin,R,Candidate,A,Y
+Idaho,Secretary of State,,Jill Humble,D,Candidate,?,N
+Idaho,Secretary of State,,Lawerence E. Denney,R,Incumbent,A+,Y
+Idaho,US House,1,Cristina McNeil,D,Candidate,?,N
+Idaho,US House,1,Russ Fulcher,R,Candidate,A+,Y
+Idaho,US House,2,Aaron Swisher,D,Candidate,D,N
+Idaho,US House,2,Mike Simpson,R,Incumbent,A,Y
+Illinois,Attorney General,,Kwame Raoul,D,Candidate,F,N
+Illinois,Attorney General,,Erika N.L. Harold,R,Candidate,?,N
+Illinois,Governor/Lt. Governor,,J.B. Pritzker/Juliana Stratton,D,Candidate,F / ?,N
+Illinois,Governor/Lt. Governor,,Bruce Rauner/Evelyn Sanguinetti,R,Incumbent,B- / ?,N
+Illinois,Treasurer,,Michael W. Frerichs,D,Incumbent,C,N
+Illinois,Treasurer,,Jim Dodge,R,Candidate,AQ,N
+Illinois,US House,1,Bobby Rush,D,Incumbent,F,N
+Illinois,US House,1,Jimmie Lee Tillman II,R,Candidate,?,N
+Illinois,US House,2,Robin Kelly,D,Incumbent,F,N
+Illinois,US House,2,David Merkle,R,Candidate,B+,N
+Illinois,US House,3,Dan Lipinski,D,Incumbent,F,N
+Illinois,US House,3,Art Jones,R,Candidate,?,N
+Illinois,US House,4,"Jesus ""Chuy"" Garcia",D,Candidate,F,N
+Illinois,US House,4,Mark Lorch,R,Candidate,?,N
+Illinois,US House,5,Mike Quigley,D,Incumbent,F,N
+Illinois,US House,5,Tom Hanson,R,Candidate,?,N
+Illinois,US House,6,Sean Casten,D,Candidate,F,N
+Illinois,US House,6,Peter Roskam,R,Incumbent,B-,N
+Illinois,US House,7,Danny K. Davis,D,Incumbent,F,N
+Illinois,US House,7,Craig Cameron,R,Candidate,B-,N
+Illinois,US House,8,Raja Krishnamoorthi,D,Incumbent,F,N
+Illinois,US House,8,"Jitendra ""JD"" Diganvker",R,Candidate,?,N
+Illinois,US House,9,Jan Schakowsky,D,Incumbent,F,N
+Illinois,US House,9,John Elleson,R,Candidate,AQ,N
+Illinois,US House,10,Brad Schneider,D,Incumbent,F,N
+Illinois,US House,10,Doug Bennett,R,Candidate,AQ,N
+Illinois,US House,11,Bill Foster,D,Incumbent,F,N
+Illinois,US House,11,Nick Stella,R,Candidate,?,N
+Illinois,US House,12,Brendan Kelly,D,Candidate,B,N
+Illinois,US House,12,Mike Bost,R,Incumbent,A,Y
+Illinois,US House,13,Betsy Dirksen Londrigan,D,Candidate,F,N
+Illinois,US House,13,Rodney Davis,R,Incumbent,A,Y
+Illinois,US House,14,Lauren Underwood,D,Candidate,F,N
+Illinois,US House,14,Randy Hultgren,R,Incumbent,A,Y
+Illinois,US House,15,Kevin Gaither,D,Candidate,D,N
+Illinois,US House,15,John Shimkus,R,Incumbent,A,Y
+Illinois,US House,16,Sara Dady,D,Candidate,F,N
+Illinois,US House,16,Adam Kinzinger,R,Incumbent,A,Y
+Illinois,US House,17,Cheri Bustos,D,Incumbent,F,N
+Illinois,US House,17,Bill Fawell,R,Candidate,AQ,N
+Illinois,US House,18,Junius Rodriguez,D,Candidate,F,N
+Illinois,US House,18,Darin LaHood,R,Incumbent,A,Y
+Indiana,US House,1,Peter Visclosky,D,Incumbent,F,N
+Indiana,US House,1,Mark Leyva,R,Candidate,?,N
+Indiana,US House,2,Mel Hall,D,Candidate,F,N
+Indiana,US House,2,Jackie Walorski,R,Incumbent,A,Y
+Indiana,US House,3,Courtney Tritch,D,Candidate,F,N
+Indiana,US House,3,Jim Banks,R,Incumbent,A,Y
+Indiana,US House,4,Tobi Beck,D,Candidate,D,N
+Indiana,US House,4,Jim Baird,R,Candidate,A,Y
+Indiana,US House,5,Dee Thornton,D,Candidate,F,N
+Indiana,US House,5,Susan Brooks,R,Incumbent,A-,N
+Indiana,US House,6,Jeannine Lee Lake,D,Candidate,F,N
+Indiana,US House,6,Greg Pence,R,Candidate,AQ,Y
+Indiana,US House,7,Andre Carson,D,Incumbent,F,N
+Indiana,US House,7,Wayne Harmon,R,Candidate,?,N
+Indiana,US House,8,William Tanoos,D,Candidate,?,N
+Indiana,US House,8,Larry Bucshon,R,Incumbent,A,Y
+Indiana,US House,9,Liz Watson,D,Candidate,F,N
+Indiana,US House,9,Trey Hollingsworth,R,Incumbent,A,Y
+Indiana,US Senate,,Joe Donnelly,D,Incumbent,D,N
+Indiana,US Senate,,Mike Braun,R,Candidate,A,Y
+Iowa,Department of Agriculture & Land Stewardship,,Timothy J. Gannon,D,Candidate,?,N
+Iowa,Department of Agriculture & Land Stewardship,,Michael Naig,R,Incumbent,A,Y
+Iowa,Governor,,Fred Hubbell,D,Candidate,D,N
+Iowa,Governor,,Kimberly Reynolds,R,Incumbent,A,Y
+Iowa,Lieutenant Governor,,Rita R. Hart,D,Candidate,F,N
+Iowa,Lieutenant Governor,,Adam Gregg,R,Incumbent,A,Y
+Iowa,Secretary of State,,Deidre DeJear,D,Candidate,?,N
+Iowa,Secretary of State,,Paul D. Pate,R,Incumbent,A,Y
+Iowa,US House,1,Abby Finkenauer,D,Candidate,F,N
+Iowa,US House,1,Rod Blum,R,Incumbent,A,Y
+Iowa,US House,2,Dave Loebsack,D,Incumbent,F,N
+Iowa,US House,2,Christopher Peters,R,Candidate,AQ,N
+Iowa,US House,3,Cindy Axne,D,Candidate,F,N
+Iowa,US House,3,David Young,R,Incumbent,A,Y
+Iowa,US House,4,J.D. Scholten,D,Candidate,F,N
+Iowa,US House,4,Steve King,R,Incumbent,A-,Y
+Kansas,Attorney General,,Sarah Swain,D,Candidate,?,N
+Kansas,Attorney General,,Derek L. Schmidt,R,Incumbent,A+,Y
+Kansas,Governor,,Laura J. Kelly,D,Candidate,F,N
+Kansas,Governor,,Greg Orman,I,Candidate,F,N
+Kansas,Governor,,Kris W. Kobach,R,Candidate,A+,Y
+Kansas,Insurance Commisioner,,Nathaniel W. McLaughlin,D,Candidate,?,N
+Kansas,Insurance Commisioner,,Vicki L. Schmidt,R,Candidate,F,N
+Kansas,Lieutenant Governor,,Lynn Rogers,D,Candidate,F,N
+Kansas,Lieutenant Governor,,John Doll,I,Candidate,F,N
+Kansas,Lieutenant Governor,,Wink Hartman,R,Candidate,A,Y
+Kansas,Secretary of State,,Brian A. McClendon,D,Candidate,?,N
+Kansas,Secretary of State,,Scott Schwab,R,Candidate,B+,N
+Kansas,Treasurer,,Marci A. Francisco,D,Candidate,F,N
+Kansas,Treasurer,,Jacob A. LaTurner,R,Incumbent,A+,Y
+Kansas,US House,1,Alan LaPolice,D,Candidate,F,N
+Kansas,US House,1,Roger Marshall,R,Incumbent,A,Y
+Kansas,US House,2,Paul Davis,D,Candidate,?,N
+Kansas,US House,2,Steve Watkins,R,Candidate,AQ,Y
+Kansas,US House,3,Sharice Davids,D,Candidate,F,N
+Kansas,US House,3,Kevin Yoder,R,Incumbent,A,Y
+Kansas,US House,4,James A. Thompson,D,Candidate,F,N
+Kansas,US House,4,Ron Estes,R,Incumbent,A,Y
+Kentucky,Marshal County Judge-Executive,,Kevin Neal,NP,Incumbent,AQ,Y
+Kentucky,Marshal County Judge-Executive,,Will Coursey,NP,Candidate,D,N
+Kentucky,US House,1,Paul Walker,D,Candidate,F,N
+Kentucky,US House,1,James R. Comer,R,Incumbent,A,Y
+Kentucky,US House,2,Hank Linderman,D,Candidate,?,N
+Kentucky,US House,2,Brett Guthrie,R,Incumbent,A,Y
+Kentucky,US House,3,John Yarmuth,D,Incumbent,F,N
+Kentucky,US House,3,Vickie Yates B. Glisson,R,Candidate,AQ,Y
+Kentucky,US House,4,Seth Hall,D,Candidate,F,N
+Kentucky,US House,4,Thomas Massie,R,Incumbent,B,N
+Kentucky,US House,5,Kenneth S. Stepp,D,Candidate,AQ,N
+Kentucky,US House,5,"Harold ""Hal"" Rogers",R,Incumbent,A,Y
+Kentucky,US House,6,Amy McGrath,D,Candidate,F,N
+Kentucky,US House,6,Andy Barr,R,Incumbent,A,Y
+Louisiana,US House,1,Lee Ann Dugas,D,Candidate,F,N
+Louisiana,US House,1,Jim Francis,D,Candidate,F,N
+Louisiana,US House,1,Tammy Savoie,D,Candidate,F,N
+Louisiana,US House,1,Steve Scalise,R,Incumbent,A+,Y
+Louisiana,US House,2,Cedric Richmond,D,Incumbent,F,N
+Louisiana,US House,3,Rob Anderson,D,Candidate,B,N
+Louisiana,US House,3,Mimi Methvin,D,Candidate,F,N
+Louisiana,US House,3,Larry Rader,D,Candidate,?,N
+Louisiana,US House,3,Verone Thomas,D,Candidate,?,N
+Louisiana,US House,3,Clay Higgins,R,Incumbent,A,Y
+Louisiana,US House,3,Josh Guillory,R,Candidate,AQ,N
+Louisiana,US House,4,Ryan Trundle,D,Candidate,F,N
+Louisiana,US House,4,Mike Johnson,R,Incumbent,A,Y
+Louisiana,US House,5,Jessee Fleenor,D,Candidate,?,N
+Louisiana,US House,5,Ralph Abraham,R,Incumbent,A,Y
+Louisiana,US House,6,Justin Dewitt,D,Candidate,?,N
+Louisiana,US House,6,Garret Graves,R,Incumbent,A,Y
+Louisiana,US House,6,Andie Saizan,R,Candidate,F,N
+Maine,Governor,,Janet T. Mills,D,Candidate,F,N
+Maine,Governor,,Shawn H. Moody,R,Candidate,AQ,Y
+Maine,US House,1,Chellie Pingree,D,Incumbent,F,N
+Maine,US House,1,Mark Holbrook,R,Candidate,AQ,Y
+Maine,US House,2,Jared Golden,D,Candidate,D,N
+Maine,US House,2,Bruce Poliquin,R,Incumbent,A,Y
+Maine,US Senate,,Zak Ringelstein,D,Candidate,F,N
+Maine,US Senate,,Angus King,I,Incumbent,D,N
+Maine,US Senate,,Eric Brakey,R,Candidate,A+,Y
+Maryland,Attorney General,,Brian E. Frosh,D,Incumbent,F,N
+Maryland,Attorney General,,Craig Wolf,R,Candidate,C,N
+Maryland,Governor,,Benjamin T. Jealous,D,Candidate,F,N
+Maryland,Governor,,Larry Hogan,R,Incumbent,C,N
+Maryland,Lieutenant Governor,,Susan Turnbull,D,Candidate,F,N
+Maryland,Lieutenant Governor,,Boyd K. Rutherford,R,Incumbent,?,N
+Maryland,US House,1,Jesse Colvin,D,Candidate,F,N
+Maryland,US House,1,Andy Harris,R,Incumbent,A,Y
+Maryland,US House,2,C.A. Dutch Ruppersberger,D,Incumbent,F,N
+Maryland,US House,2,Liz Matory,R,Candidate,?,N
+Maryland,US House,3,John Sarbanes,D,Incumbent,F,N
+Maryland,US House,3,Charles Anthony,R,Candidate,?,N
+Maryland,US House,4,Anthony Brown,D,Incumbent,F,N
+Maryland,US House,4,George McDermott,R,Candidate,F,N
+Maryland,US House,5,Steny Hoyer,D,Incumbent,F,N
+Maryland,US House,5,Bill Devine,R,Candidate,AQ,N
+Maryland,US House,6,David Trone,D,Candidate,F,N
+Maryland,US House,6,Amie Hoeber,R,Candidate,AQ,N
+Maryland,US House,7,Elijah Cummings,D,Incumbent,F,N
+Maryland,US House,7,Richmond Davis,R,Candidate,?,N
+Maryland,US House,8,Jamie Raskin,D,Incumbent,F,N
+Maryland,US House,8,John Walsh,R,Candidate,F,N
+Maryland,US Senate,,Ben Cardin,D,Incumbent,F,N
+Maryland,US Senate,,Tony Campbell,R,Candidate,AQ,N
+Massachusetts,Attorney General,,Maura Healey,D,Incumbent,F,N
+Massachusetts,Attorney General,,James R. McMahon,R,Candidate,AQ,Y
+Massachusetts,Governor,,Jay Gonzalez,D,Candidate,F,N
+Massachusetts,Governor,,Charlie Baker,R,Incumbent,D,N
+Massachusetts,Lieutenant Governor,,Quentin A. Palfrey,D,Candidate,F,N
+Massachusetts,Lieutenant Governor,,Karyn E. Polito,R,Incumbent,D,N
+Massachusetts,Secretary of State,,William Francis Galvin,D,Incumbent,?,N
+Massachusetts,Secretary of State,,Anthony M. Amore,R,Candidate,?,N
+Massachusetts,Treasurer,,Deborah B. Goldberg,D,Incumbent,F,N
+Massachusetts,Treasurer,,Keiko M. Orrall,R,Candidate,?,N
+Massachusetts,US House,1,Richard Neal,D,Incumbent,F,N
+Massachusetts,US House,2,Jim McGovern,D,Incumbent,F,N
+Massachusetts,US House,2,Tracy Lovvorn,R,Candidate,?,N
+Massachusetts,US House,3,Lori Trahan,D,Candidate,F,N
+Massachusetts,US House,3,Rick Green,R,Candidate,?,N
+Massachusetts,US House,4,Joe Kennedy III,D,Incumbent,F,N
+Massachusetts,US House,5,Katherine Clark,D,Incumbent,F,N
+Massachusetts,US House,5,John Hugo,R,Candidate,AQ,N
+Massachusetts,US House,6,Seth Moulton,D,Incumbent,F,N
+Massachusetts,US House,6,Joe Schneider,R,Candidate,?,N
+Massachusetts,US House,7,Ayanna Pressley,D,Candidate,F,N
+Massachusetts,US House,8,Stephen Lynch,D,Incumbent,F,N
+Massachusetts,US House,9,Bill Keating,D,Incumbent,F,N
+Massachusetts,US House,9,Peter Tedeschi,R,Candidate,F,N
+Massachusetts,US Senate,,Elizabeth Warren,D,Incumbent,F,N
+Massachusetts,US Senate,,Geoff Diehl,R,Candidate,A,Y
+Michigan,Attorney General,,Dana Nessel,D,Candidate,F,N
+Michigan,Attorney General,,Tom Leonard,R,Candidate,A+,Y
+Michigan,Governor,,Gretchen E. Whitmer,D,Candidate,F,N
+Michigan,Governor,,Bill Schuette,R,Candidate,A+,Y
+Michigan,US House,1,Matt Morgan,D,Candidate,D,N
+Michigan,US House,1,Jack Bergman,R,Incumbent,A,Y
+Michigan,US House,2,Rob Davidson,D,Candidate,F,N
+Michigan,US House,2,Bill Huizenga,R,Incumbent,A,Y
+Michigan,US House,3,Cathy Albro,D,Candidate,F,N
+Michigan,US House,3,Justin Amash,R,Incumbent,B-,N
+Michigan,US House,4,Jerry Hilliard,D,Candidate,F,N
+Michigan,US House,4,John Moolenaar,R,Incumbent,A,Y
+Michigan,US House,5,Dan Kildee,D,Incumbent,F,N
+Michigan,US House,5,Travis Wines,R,Candidate,?,N
+Michigan,US House,6,Matt Longjohn,D,Candidate,F,N
+Michigan,US House,6,Fred Upton,R,Incumbent,B,N
+Michigan,US House,7,Gretchen Driskell,D,Candidate,F,N
+Michigan,US House,7,Tim Walberg,R,Incumbent,A,Y
+Michigan,US House,8,Elissa Slotkin,D,Candidate,F,N
+Michigan,US House,8,Mike Bishop,R,Incumbent,A,Y
+Michigan,US House,9,Andy Levin,D,Candidate,F,N
+Michigan,US House,9,Candius Stearns,R,Candidate,AQ,N
+Michigan,US House,10,Kimberly Bizon,D,Candidate,F,N
+Michigan,US House,10,Paul Mitchell,R,Incumbent,A,Y
+Michigan,US House,11,Haley Stevens,D,Candidate,F,N
+Michigan,US House,11,Lena Epstein,R,Candidate,AQ,Y
+Michigan,US House,12,Debbie Dingell,D,Incumbent,F,N
+Michigan,US House,12,Jeff Jones,R,Candidate,AQ,N
+Michigan,US House,13,Rashida Tlaib,D,Candidate,F,N
+Michigan,US House,14,Brenda Lawrence,D,Incumbent,F,N
+Michigan,US House,14,Marc S. Herschfus,R,Candidate,?,N
+Michigan,US Senate,,Debbie Stabenow,D,Incumbent,F,N
+Michigan,US Senate,,John James,R,Candidate,AQ,Y
+Minnesota,Attorney General,,Keith M. Ellison,D,Candidate,F,N
+Minnesota,Attorney General,,Doug Wardlow,R,Candidate,A,Y
+Minnesota,Governor,,Tim J. Walz,D,Candidate,F,N
+Minnesota,Governor,,Jeff Johnson,R,Candidate,A,Y
+Minnesota,Lieutenant Governor,,Peggy Flanagan,D,Candidate,F,N
+Minnesota,Lieutenant Governor,,Donna Bergstrom,R,Candidate,A,Y
+Minnesota,Secretary of State,,Steven Simon,D,Incumbent,F,N
+Minnesota,Secretary of State,,John S. Howe,R,Candidate,A,Y
+Minnesota,State Auditor,,Julie Blaha,D,Candidate,F,N
+Minnesota,State Auditor,,Pamela J. Myhra,R,Candidate,AQ,N
+Minnesota,US House,1,Dan Feehan,DFL,Candidate,F,N
+Minnesota,US House,1,Jim Hagedorn,R,Candidate,AQ,Y
+Minnesota,US House,2,Angie Craig,DFL,Candidate,F,N
+Minnesota,US House,2,Jason Lewis,R,Incumbent,A,Y
+Minnesota,US House,3,Dean Phillips,DFL,Candidate,F,N
+Minnesota,US House,3,Erik Paulsen,R,Incumbent,A,Y
+Minnesota,US House,4,Betty McCollum,DFL,Incumbent,F,N
+Minnesota,US House,4,Greg Ryan,R,Candidate,AQ,N
+Minnesota,US House,5,Ilhan Omar,DFL,Candidate,F,N
+Minnesota,US House,5,Jennifer Zielinski,R,Candidate,AQ,N
+Minnesota,US House,6,Ian Todd,DFL,Candidate,F,N
+Minnesota,US House,6,Tom Emmer,R,Incumbent,A+,Y
+Minnesota,US House,7,Collin Peterson,DFL,Incumbent,A,Y
+Minnesota,US House,7,Dave Hughes,R,Candidate,AQ,N
+Minnesota,US House,8,Joe Radinovich,DFL,Candidate,F,N
+Minnesota,US House,8,Pete Stauber,R,Candidate,AQ,Y
+Minnesota,US Senate,,Amy Klobuchar,DFL,Incumbent,F,N
+Minnesota,US Senate,,Tina Smith,DFL,Incumbent,F,N
+Minnesota,US Senate,,Jim Newberger,R,Candidate,A,Y
+Minnesota,US Senate,,Karin Housley,R,Candidate,A,Y
+Mississippi,US House,1,Randy Wadkins,D,Candidate,?,N
+Mississippi,US House,1,Trent Kelly,R,Incumbent,A,Y
+Mississippi,US House,2,Bennie Thompson,D,Incumbent,F,N
+Mississippi,US House,3,Michael Ted Evans,D,Candidate,A,N
+Mississippi,US House,3,Michael Guest,R,Candidate,A,N
+Mississippi,US House,4,Jeramey Anderson,D,Candidate,F,N
+Mississippi,US House,4,Steven Palazzo,R,Incumbent,A,Y
+Mississippi,US Senate,,David Baria,D,Candidate,?,N
+Mississippi,US Senate,,Mike Espy,D,Candidate,?,N
+Mississippi,US Senate,,Roger Wicker,R,Incumbent,A,Y
+Mississippi,US Senate,,Cindy Hyde-Smith,R,Incumbent,A,Y
+Mississippi,US Senate,,Chris McDaniel,R,Candidate,A,N
+Missouri,Auditor,,Nicole Galloway,D,Incumbent,?,N
+Missouri,Auditor,,Saundra McDowell,R,Candidate,AQ,N
+Missouri,US House,1,Lacy Clay,D,Incumbent,F,N
+Missouri,US House,1,Robert Vroman,R,Candidate,?,N
+Missouri,US House,2,Cort VanOstran,D,Candidate,F,N
+Missouri,US House,2,Ann Wagner,R,Incumbent,A,Y
+Missouri,US House,3,Katy Geppert,D,Candidate,F,N
+Missouri,US House,3,Blaine Luetkemeyer,R,Incumbent,A,Y
+Missouri,US House,4,Renee Hoagenson,D,Candidate,F,N
+Missouri,US House,4,Vicky Hartzler,R,Incumbent,A,Y
+Missouri,US House,5,Emanuel Cleaver,D,Incumbent,F,N
+Missouri,US House,5,Jacob Turk,R,Candidate,AQ,N
+Missouri,US House,6,Henry Martin,D,Candidate,F,N
+Missouri,US House,6,Sam Graves,R,Incumbent,A,Y
+Missouri,US House,7,Jamie Schoolcraft,D,Candidate,F,N
+Missouri,US House,7,Billy Long,R,Incumbent,A,Y
+Missouri,US House,8,Kathy Ellis,D,Candidate,F,N
+Missouri,US House,8,Jason Smith,R,Incumbent,A,Y
+Missouri,US Senate,,Claire McCaskill,D,Incumbent,F,N
+Missouri,US Senate,,Josh Hawley,R,Candidate,A,Y
+Montana,US House,,Kathleen Williams,D,Candidate,F,N
+Montana,US House,,Greg Gianforte,R,Incumbent,A,Y
+Montana,US Senate,,Jon Tester,D,Incumbent,D,N
+Montana,US Senate,,Matt Rosendale,R,Candidate,A,Y
+Nebraska,Attorney General,,Douglas J. Peterson,R,Incumbent,A,Y
+Nebraska,Governor,,Bob J. Krist,D,Candidate,F,N
+Nebraska,Governor,,Pete Ricketts,R,Incumbent,A,Y
+Nebraska,Secretary of State,,Spencer Danner,D,Candidate,?,N
+Nebraska,Secretary of State,,Bob Evnen,R,Candidate,AQ,Y
+Nebraska,State Treasurer,,John Murante,R,Candidate,A+,Y
+Nebraska,US House,1,Jessica McClure,D,Candidate,F,N
+Nebraska,US House,1,Jeff Fortenberry,R,Incumbent,A,Y
+Nebraska,US House,2,Kara Eastman,D,Candidate,F,N
+Nebraska,US House,2,Don Bacon,R,Incumbent,A,Y
+Nebraska,US House,3,Paul Theobald,D,Candidate,?,N
+Nebraska,US House,3,Adrian Smith,R,Incumbent,A,Y
+Nebraska,US Senate,,Jane Raybould,D,Candidate,F,N
+Nebraska,US Senate,,Deb Fischer,R,Incumbent,A,Y
+Nevada,Attorney General,,Aaron D. Ford,D,Candidate,F,N
+Nevada,Attorney General,,Wesley K. Duncan,R,Candidate,A,Y
+Nevada,Governor,,Steve Sisolak,D,Candidate,F,N
+Nevada,Governor,,Adam P. Laxalt,R,Candidate,A+,Y
+Nevada,Justice of the Supreme Court,,Jerry Tao,NP,Candidate,,Y
+Nevada,Lt. Governor,,Kate Marshall,D,Candidate,F,N
+Nevada,Lt. Governor,,Michael Roberson,R,Candidate,A+,Y
+Nevada,Secretary of State,,Nelson Araujo,D,Candidate,F,N
+Nevada,Secretary of State,,Barbara K. Cegavske,R,Incumbent,A,Y
+Nevada,State Treasurer,,Zachary B. Conine,D,Candidate,?,N
+Nevada,State Treasurer,,Robert T. Beers,R,Candidate,A,Y
+Nevada,US House,1,Dina Titus,D,Incumbent,F,N
+Nevada,US House,1,Joyce Bentley,R,Candidate,?,N
+Nevada,US House,2,Clint Koble,D,Candidate,F,N
+Nevada,US House,2,Mark Amodei,R,Incumbent,A,Y
+Nevada,US House,3,Susie Lee,D,Candidate,F,N
+Nevada,US House,3,Danny Tarkanian,R,Candidate,?,N
+Nevada,US House,4,Steven Horsford,D,Candidate,F,N
+Nevada,US House,4,Cresent Hardy,R,Candidate,A,Y
+Nevada,US Senate,,Jacky Rosen,D,Candidate,F,N
+Nevada,US Senate,,Dean Heller,R,Incumbent,A,Y
+New Hampshire,Executive Council 1,,Michael Cryans,D,Candidate,?,N
+New Hampshire,Executive Council 1,,Joseph D. Kenney,R,Incumbent,A,Y
+New Hampshire,Executive Council 2,,Andru Volinsky,D,Incumbent,?,N
+New Hampshire,Executive Council 2,,James S. Beard,R,Candidate,?,N
+New Hampshire,Executive Council 3,,Joe Pace,D,Candidate,?,N
+New Hampshire,Executive Council 3,,Russell Prescott,R,Incumbent,A,Y
+New Hampshire,Executive Council 4,,Gray Chynoweth,D,Candidate,?,N
+New Hampshire,Executive Council 4,,Ted Gatsas,R,Candidate,A,Y
+New Hampshire,Executive Council 5,,Debora B. Pignatelli,D,Candidate,F,N
+New Hampshire,Executive Council 5,,Dave Wheeler,R,Incumbent,A+,Y
+New Hampshire,Governor,,Molly M. Kelly,D,Candidate,F,N
+New Hampshire,Governor,,Christopher T. Sununu,R,Incumbent,A,Y
+New Hampshire,US House,1,Chris Pappas,D,Candidate,F,N
+New Hampshire,US House,1,Eddie Edwards,R,Candidate,AQ,Y
+New Hampshire,US House,2,Annie Kuster,D,Incumbent,F,N
+New Hampshire,US House,2,Steve Negron,R,Candidate,A,Y
+New Jersey,US House,1,Donald Norcross,D,Incumbent,F,N
+New Jersey,US House,1,Paul Dilks,R,Candidate,A-,N
+New Jersey,US House,2,Jeff Van Drew,D,Candidate,B+,Y
+New Jersey,US House,2,Seth Grossman,R,Candidate,B,N
+New Jersey,US House,3,Andy Kim,D,Candidate,F,N
+New Jersey,US House,3,Tom MacArthur,R,Incumbent,A,Y
+New Jersey,US House,4,Josh Welle,D,Candidate,F,N
+New Jersey,US House,4,Chris Smith,R,Incumbent,C-,N
+New Jersey,US House,5,Josh Gottheimer,D,Incumbent,F,N
+New Jersey,US House,5,John McCann,R,Candidate,AQ,Y
+New Jersey,US House,6,Frank Pallone,D,Incumbent,F,N
+New Jersey,US House,6,Rich Pezzullo,R,Candidate,AQ,N
+New Jersey,US House,7,Tom Malinowski,D,Candidate,F,N
+New Jersey,US House,7,Leonard Lance,R,Incumbent,C-,N
+New Jersey,US House,8,Albio Sires,D,Incumbent,F,N
+New Jersey,US House,8,John Muniz,R,Candidate,?,N
+New Jersey,US House,9,Bill Pascrell,D,Incumbent,F,N
+New Jersey,US House,9,Eric Fisher,R,Candidate,?,N
+New Jersey,US House,10,"Donald Payne, Jr.",D,Incumbent,F,N
+New Jersey,US House,10,Agha Khan,R,Candidate,?,N
+New Jersey,US House,11,Mikie Sherrill,D,Candidate,F,N
+New Jersey,US House,11,Jay Webber,R,Candidate,B+,Y
+New Jersey,US House,12,Bonnie Watson-Coleman,D,Incumbent,F,N
+New Jersey,US House,12,Daryl Kipnis,R,Candidate,AQ,N
+New Jersey,US Senate,,Bob Menendez,D,Incumbent,F,N
+New Jersey,US Senate,,Bob Hugin,R,Candidate,?,N
+New Mexico,Attorney General,,Hector Balderas,D,Incumbent,?,N
+New Mexico,Attorney General,,Michael Hendricks,R,Candidate,AQ,Y
+New Mexico,Commissioner of Public Lands,,Stephanie Garcia Richard,D,Incumbent,F,N
+New Mexico,Commissioner of Public Lands,,Pat Lyons,R,Candidate,A,Y
+New Mexico,Governor,,Michelle Lujan Grisham,D,Candidate,F,N
+New Mexico,Governor,,Steve Pearce,R,Candidate,A,Y
+New Mexico,Lieutenant Governor,,Howie Morales,D,Candidate,B-,N
+New Mexico,Lieutenant Governor,,Michelle Garcia Holmes,R,Candidate,AQ,Y
+New Mexico,Secretary of State,,Maggie Toulouse Oliver,D,Incumbent,?,N
+New Mexico,Secretary of State,,Gavin Clarkson,R,Candidate,AQ,Y
+New Mexico,State Auditor,,Brian Colon,D,Candidate,F,N
+New Mexico,State Auditor,,Wayne Johnson,R,Incumbent,AQ,Y
+New Mexico,US House,1,Debra Haaland,D,Candidate,F,N
+New Mexico,US House,1,Janice Arnold-Jones,R,Candidate,A,Y
+New Mexico,US House,2,Xochitl Torres Small,D,Candidate,?,N
+New Mexico,US House,2,Yvette Herrell,R,Candidate,A,Y
+New Mexico,US House,3,Ben Ray Lujan,D,Incumbent,F,N
+New Mexico,US House,3,Jerald Steve McFall,R,Candidate,AQ,N
+New Mexico,US Senate,,Martin Heinrich,D,Incumbent,F,N
+New Mexico,US Senate,,Mick Rich,R,Candidate,AQ,N
+New York,Attorney General,,Letitia A. James,D,Candidate,F,N
+New York,Attorney General,,Keith Wofford,R,Candidate,?,N
+New York,Comptroller,,Thomas P. DiNapoli,D,Incumbent,F,N
+New York,Comptroller,,Jonathan Trichter,R,Candidate,?,N
+New York,Governor,,Andrew M. Cuomo,D,Incumbent,F,N
+New York,Governor,,Marcus J. Molinaro,R,Candidate,A,Y
+New York,US House,1,Perry Gershon,D,Candidate,F,N
+New York,US House,1,Lee Zeldin,R,Incumbent,A,Y
+New York,US House,2,Liuba Shirley,D,Candidate,F,N
+New York,US House,2,Peter King,R,Incumbent,F,N
+New York,US House,3,Thomas Suozzi,D,Incumbent,F,N
+New York,US House,3,Dan DeBono,R,Candidate,?,N
+New York,US House,4,Kathleen Rice,D,Incumbent,F,N
+New York,US House,4,Ameer Benno,R,Candidate,C-,N
+New York,US House,5,Gregory Meeks,D,Incumbent,F,N
+New York,US House,6,Grace Meng,D,Incumbent,F,N
+New York,US House,7,Nydia Velazquez,D,Incumbent,F,N
+New York,US House,8,Hakeem Jeffries,D,Incumbent,F,N
+New York,US House,9,Yvette Clarke,D,Incumbent,F,N
+New York,US House,9,Lutchi Gayot,R,Candidate,?,N
+New York,US House,10,Jerrold Nadler,D,Incumbent,F,N
+New York,US House,10,Naomi Levin,R,Candidate,?,N
+New York,US House,11,Max Rose,D,Candidate,F,N
+New York,US House,11,Dan Donovan,R,Incumbent,F,N
+New York,US House,12,Carolyn Maloney,D,Incumbent,F,N
+New York,US House,12,Eliot Rabin,R,Candidate,?,N
+New York,US House,13,Adriano Espaillat,D,Incumbent,F,N
+New York,US House,13,Jineea Butler,R,Candidate,?,N
+New York,US House,14,Alexandria Ocasio-Cortez,D,Candidate,F,N
+New York,US House,14,Anthony Pappas,R,Candidate,?,N
+New York,US House,15,Jose E. Serrano,D,Incumbent,F,N
+New York,US House,15,Jason Gonzalez,R,Candidate,?,N
+New York,US House,16,Eliot Engel,D,Incumbent,F,N
+New York,US House,17,Nita Lowey,D,Incumbent,F,N
+New York,US House,18,Sean Patrick Maloney,D,Incumbent,F,N
+New York,US House,18,James O'Donnell,R,Candidate,AQ,N
+New York,US House,19,Antonio Delgado,D,Candidate,F,N
+New York,US House,19,John Faso,R,Incumbent,A,Y
+New York,US House,20,Paul Tonko,D,Incumbent,F,N
+New York,US House,20,Francis Vitollo,R,Candidate,?,N
+New York,US House,21,Tedra Cobb,D,Candidate,F,N
+New York,US House,21,Elise Stefanik,R,Incumbent,A,Y
+New York,US House,22,Anthony Brindisi,D,Candidate,F,N
+New York,US House,22,Claudia Tenney,R,Incumbent,A,Y
+New York,US House,23,Tracy Mitrano,D,Candidate,F,N
+New York,US House,23,Tom Reed,R,Incumbent,A,Y
+New York,US House,24,Dana Balter,D,Candidate,F,N
+New York,US House,24,John Katko,R,Incumbent,A,Y
+New York,US House,25,Joseph Morelle,D,Candidate,F,N
+New York,US House,25,Jim Maxwell,R,Candidate,?,N
+New York,US House,26,Brian Higgins,D,Incumbent,F,N
+New York,US House,26,Renee Zeno,R,Candidate,?,N
+New York,US House,27,Nate McMurray,D,Candidate,F,N
+New York,US House,27,Chris Collins,R,Incumbent,A+,Y
+New York,US Senate,,Kirsten Gillibrand,D,Incumbent,F,N
+New York,US Senate,,Chele Farley,R,Candidate,?,N
+North Carolina,US House,1,G.K. Butterfield,D,Incumbent,F,N
+North Carolina,US House,1,Roger Allison,R,Candidate,AQ,N
+North Carolina,US House,2,Linda Coleman,D,Candidate,F,N
+North Carolina,US House,2,George Holding,R,Incumbent,A,Y
+North Carolina,US House,3,Walter Jones,R,Incumbent,A-,Y
+North Carolina,US House,4,David Price,D,Incumbent,F,N
+North Carolina,US House,4,Steve Loor,R,Candidate,AQ,N
+North Carolina,US House,5,DD Adams,D,Candidate,F,N
+North Carolina,US House,5,Virginia Foxx,R,Incumbent,A,Y
+North Carolina,US House,6,Ryan Watts,D,Candidate,F,N
+North Carolina,US House,6,Mark Walker,R,Incumbent,A,Y
+North Carolina,US House,7,Kyle Horton,D,Candidate,F,N
+North Carolina,US House,7,David Rouzer,R,Incumbent,A,Y
+North Carolina,US House,8,Frank McNeill,D,Candidate,D,N
+North Carolina,US House,8,Richard Hudson,R,Incumbent,A+,Y
+North Carolina,US House,9,Dan McCready,D,Candidate,D,N
+North Carolina,US House,9,Mark Harris,R,Candidate,AQ,Y
+North Carolina,US House,10,David Brown,D,Candidate,F,N
+North Carolina,US House,10,Patrick McHenry,R,Incumbent,A,Y
+North Carolina,US House,11,Phillip Price,D,Candidate,F,N
+North Carolina,US House,11,Mark Meadows,R,Incumbent,A,Y
+North Carolina,US House,12,Alma Adams,D,Incumbent,F,N
+North Carolina,US House,12,Paul Wright,R,Candidate,AQ,N
+North Carolina,US House,13,Kathy Manning,D,Candidate,F,N
+North Carolina,US House,13,Ted Budd,R,Incumbent,A,Y
+North Dakota,Attorney General,,David C. Thompson,D,Candidate,?,N
+North Dakota,Attorney General,,Wayne K. Stenehjem,R,Incumbent,A+,Y
+North Dakota,Secretary of State,,Joshua A. Boschee,D,Candidate,?,N
+North Dakota,Secretary of State,,Al Jaeger,I,Candidate,A,Y
+North Dakota,US House,,Mac Schneider,D,Candidate,A-,N
+North Dakota,US House,,Kelly Armstrong,R,Candidate,A+,Y
+North Dakota,US Senate,,Heidi Heitkamp,D,Incumbent,B,N
+North Dakota,US Senate,,Kevin Cramer,R,Candidate,A,Y
+Ohio,Attorney General,,Steven M. Dettelbach,D,Candidate,F,N
+Ohio,Attorney General,,David A.Yost,R,Candidate,A,Y
+Ohio,Auditor,,Zach Space,D,Candidate,D,N
+Ohio,Auditor,,Keith Faber,R,Candidate,A,Y
+Ohio,Governor/Lieutenant Governor,,Richard A. Cordray/Betty D. Sutton,D,Candidate,D+ / F,N
+Ohio,Governor/Lieutenant Governor,,Mike DeWine/Jon A. Husted,R,Candidate,B / A,Y
+Ohio,Secretary of State,,Kathleen Clyde,D,Candidate,F,N
+Ohio,Secretary of State,,Frank LaRose,R,Candidate,A,Y
+Ohio,State Treasurer,,Rob Richardson,D,Candidate,?,N
+Ohio,State Treasurer,,Robert C. Sprague,R,Candidate,A,Y
+Ohio,US House,1,Aftab Pureval,D,Candidate,F,N
+Ohio,US House,1,Steve Chabot,R,Incumbent,A,Y
+Ohio,US House,2,Jill Schiller,D,Candidate,F,N
+Ohio,US House,2,Brad Wenstrup,R,Incumbent,A,Y
+Ohio,US House,3,Joyce Beatty,D,Incumbent,F,N
+Ohio,US House,3,Jim Burgess,R,Candidate,AQ,N
+Ohio,US House,4,Janet Garrett,D,Candidate,F,N
+Ohio,US House,4,Jim Jordan,R,Incumbent,A,Y
+Ohio,US House,5,J. Michael Galbraith,D,Candidate,F,N
+Ohio,US House,5,Bob Latta,R,Incumbent,A,Y
+Ohio,US House,6,Shawna Roberts,D,Candidate,F,N
+Ohio,US House,6,Bill Johnson,R,Incumbent,A,Y
+Ohio,US House,7,Ken Harbaugh,D,Candidate,F,N
+Ohio,US House,7,Bob Gibbs,R,Incumbent,A+,Y
+Ohio,US House,8,Vanessa Enoch,D,Candidate,F,N
+Ohio,US House,8,Warren Davidson,R,Incumbent,A,Y
+Ohio,US House,9,Marcy Kaptur,D,Incumbent,F,N
+Ohio,US House,9,Steven Kraus,R,Candidate,AQ,N
+Ohio,US House,10,Theresa Gasper,D,Candidate,F,N
+Ohio,US House,10,Mike Turner,R,Incumbent,A,Y
+Ohio,US House,11,Marcia Fudge,D,Incumbent,F,N
+Ohio,US House,11,Beverly Goldstein,R,Candidate,AQ,N
+Ohio,US House,12,Danny O'Connor,D,Candidate,F,N
+Ohio,US House,12,Troy Balderson,R,Incumbent,A,Y
+Ohio,US House,13,Tim Ryan,D,Incumbent,F,N
+Ohio,US House,13,Chris DePizzo,R,Candidate,AQ,N
+Ohio,US House,14,Betsy Rader,D,Candidate,F,N
+Ohio,US House,14,Dave Joyce,R,Incumbent,A,Y
+Ohio,US House,15,Rick Neal,D,Candidate,F,N
+Ohio,US House,15,Steve Stivers,R,Incumbent,A,Y
+Ohio,US House,16,Susan Palmer,D,Candidate,F,N
+Ohio,US House,16,Anthony Gonzalez,R,Candidate,AQ,Y
+Ohio,US Senate,,Sherrod Brown,D,Incumbent,F,N
+Ohio,US Senate,,Jim Renacci,R,Candidate,A,Y
+Oklahoma,Attorney General,,Mark Myles,D,Candidate,?,N
+Oklahoma,Attorney General,,Michael J. Hunter,R,Incumbent,A,Y
+Oklahoma,Governor,,Drew Edmondson,D,Candidate,D,N
+Oklahoma,Governor,,Kevin Stitt,R,Candidate,AQ,Y
+Oklahoma,Labor Commissioner,,Fred Dorrell,D,Candidate,?,N
+Oklahoma,Labor Commissioner,,Leslie K. Osborn,R,Candidate,A,Y
+Oklahoma,Lt. Governor,,Anastasia A. Pittman,D,Candidate,C,N
+Oklahoma,Lt. Governor,,Matt Pinnell,R,Candidate,AQ,Y
+Oklahoma,Treasurer,,Randy McDaniel,R,Candidate,AQ,Y
+Oklahoma,US House,1,Tim Gilpin,D,Candidate,F,N
+Oklahoma,US House,1,Kevin Hern,R,Candidate,AQ,Y
+Oklahoma,US House,2,Jason Nichols,D,Candidate,?,N
+Oklahoma,US House,2,Markwayne Mullin,R,Incumbent,A,Y
+Oklahoma,US House,3,Frankie Robbins,D,Candidate,?,N
+Oklahoma,US House,3,Frank D. Lucas,R,Incumbent,A,Y
+Oklahoma,US House,4,Mary Brannon,D,Candidate,F,N
+Oklahoma,US House,4,Tom Cole,R,Incumbent,A+,Y
+Oklahoma,US House,5,Kendra Horn,D,Candidate,F,N
+Oklahoma,US House,5,Steve Russell,R,Incumbent,A,Y
+Oregon,Governor,,Kate Brown,D,Incumbent,F,N
+Oregon,Governor,,Knute C. Buehler,R,Candidate,B,N
+Oregon,US House,1,Suzanne Bonamici,D,Incumbent,F,N
+Oregon,US House,1,John Verbeek,R,Candidate,AQ,N
+Oregon,US House,2,Jamie McLeod-Skinner,D,Candidate,F,N
+Oregon,US House,2,Greg Walden,R,Incumbent,A,Y
+Oregon,US House,3,Earl Blumenauer,D,Incumbent,F,N
+Oregon,US House,3,Tom Harrison,R,Candidate,AQ,N
+Oregon,US House,4,Peter DeFazio,D,Incumbent,D,N
+Oregon,US House,4,"Arthur ""Art"" Robinson",R,Candidate,AQ,N
+Oregon,US House,5,Kurt Schrader,D,Incumbent,B-,N
+Oregon,US House,5,Mark Callahan,R,Candidate,AQ,N
+Pennsylvania,US House,1,Scott Wallace,D,Candidate,F,N
+Pennsylvania,US House,1,Brian Fitzpatrick,R,Incumbent,F,N
+Pennsylvania,US House,2,Brendan Boyle,D,Incumbent,F,N
+Pennsylvania,US House,2,David Torres,R,Candidate,?,N
+Pennsylvania,US House,3,Dwight Evans,D,Incumbent,F,N
+Pennsylvania,US House,3,Bryan Leib,R,Candidate,?,N
+Pennsylvania,US House,4,Madeleine Dean,D,Candidate,F,N
+Pennsylvania,US House,4,Dan David,R,Candidate,B,N
+Pennsylvania,US House,5,Mary Gay Scanlon,D,Candidate,F,N
+Pennsylvania,US House,5,Pearl Kim,R,Candidate,?,N
+Pennsylvania,US House,6,Chrissy Houlahan,D,Candidate,F,N
+Pennsylvania,US House,6,Greg McCauley,R,Candidate,AQ,N
+Pennsylvania,US House,7,Susan Wild,D,Candidate,F,N
+Pennsylvania,US House,7,Marty Nothstein,R,Candidate,AQ,Y
+Pennsylvania,US House,8,Matt Cartwright,D,Incumbent,F,N
+Pennsylvania,US House,8,John Chrin,R,Candidate,AQ,Y
+Pennsylvania,US House,9,Denny Wolff,D,Candidate,AQ,N
+Pennsylvania,US House,9,Dan Meuser,R,Candidate,AQ,N
+Pennsylvania,US House,10,George Scott,D,Candidate,F,N
+Pennsylvania,US House,10,Scott Perry,R,Incumbent,A-,Y
+Pennsylvania,US House,11,Jess King,D,Candidate,F,N
+Pennsylvania,US House,11,Lloyd Smucker,R,Incumbent,A,Y
+Pennsylvania,US House,12,Marc Friedenberg,D,Candidate,D,N
+Pennsylvania,US House,12,Tom Marino,R,Incumbent,A,Y
+Pennsylvania,US House,13,Brent Ottaway,D,Candidate,?,N
+Pennsylvania,US House,13,John Joyce,R,Candidate,AQ,Y
+Pennsylvania,US House,14,Bibiana Boerio,D,Candidate,?,N
+Pennsylvania,US House,14,Guy Reschenthaler,R,Candidate,A,Y
+Pennsylvania,US House,15,Susan Boser,D,Candidate,?,N
+Pennsylvania,US House,15,Glenn Thompson,R,Incumbent,A,Y
+Pennsylvania,US House,16,Ron DiNicola,D,Candidate,D,N
+Pennsylvania,US House,16,Mike Kelly,R,Incumbent,A+,Y
+Pennsylvania,US House,17,Conor Lamb,D,Candidate,F,N
+Pennsylvania,US House,17,Keith Rothfus,R,Incumbent,A,Y
+Pennsylvania,US House,18,Mike Doyle,D,Incumbent,F,N
+Pennsylvania,US Senate,,Bob Casey,D,Incumbent,F,N
+Pennsylvania,US Senate,,Lou Barletta,R,Candidate,A,Y
+Rhode Island,Attorney General,,Peter F. Neronha,D,Candidate,F,N
+Rhode Island,Governor,,Gina M. Raimondo,D,Incumbent,F,N
+Rhode Island,Governor,,Allan W. Fung,R,Candidate,A,Y
+Rhode Island,Lieutenant Governor,,Daniel J. McKee,D,Incumbent,F,N
+Rhode Island,Lieutenant Governor,,Paul E. Pence,R,Candidate,?,N
+Rhode Island,Secretary of State,,Nellie M. Gorbea,D,Incumbent,?,N
+Rhode Island,Secretary of State,,Pat V. Cortellessa,R,Candidate,B,N
+Rhode Island,Treasurer,,Seth Magaziner,D,Incumbent,?,N
+Rhode Island,Treasurer,,Michael G. Riley,R,Candidate,?,N
+Rhode Island,US House,1,David Cicilline,D,Incumbent,F,N
+Rhode Island,US House,1,Patrick Donovan,R,Candidate,?,N
+Rhode Island,US House,2,Jim Langevin,D,Incumbent,F,N
+Rhode Island,US House,2,Salvatore Caiozzo,R,Candidate,AQ,N
+Rhode Island,US Senate,,Sheldon Whitehouse,D,Incumbent,F,N
+Rhode Island,US Senate,,Bob Flanders,R,Candidate,?,N
+South Carolina,Attorney General,,Constance Anastopoulo,D,Candidate,?,N
+South Carolina,Attorney General,,Melvin T. Whittenburg,D,Candidate,?,N
+South Carolina,Attorney General,,Alan M. Wilson,R,Incumbent,A,Y
+South Carolina,Attorney General,,Mark Hammond,R,Incumbent,A,Y
+South Carolina,Governor,,James Smith,D,Candidate,D,N
+South Carolina,Governor,,Henry D. McMaster,R,Incumbent,A,Y
+South Carolina,US House,1,Joe Cunningham,D,Candidate,F,N
+South Carolina,US House,1,Katie Arrington,R,Candidate,A,Y
+South Carolina,US House,2,Sean Carrigan,D,Candidate,F,N
+South Carolina,US House,2,Joe Wilson,R,Incumbent,A,Y
+South Carolina,US House,3,Mary Geren,D,Candidate,F,N
+South Carolina,US House,3,Jeff Duncan,R,Incumbent,A+,Y
+South Carolina,US House,4,Brandon P. Brown,D,Candidate,F,N
+South Carolina,US House,4,William Timmons,R,Candidate,A,Y
+South Carolina,US House,5,Archie Parnell,D,Candidate,F,N
+South Carolina,US House,5,Ralph Norman,R,Incumbent,A,Y
+South Carolina,US House,6,"James ""Jim"" Clyburn",D,Incumbent,F,N
+South Carolina,US House,6,Gerhard Gressman,R,Candidate,AQ,N
+South Carolina,US House,7,Robert Q. Williams,D,Candidate,F,N
+South Carolina,US House,7,Tom Rice,R,Incumbent,A,Y
+South Dakota,Attorney General,,Jason Ravnsborg,D,Candidate,AQ,Y
+South Dakota,Attorney General,,Randy Seiler,R,Candidate,?,N
+South Dakota,Governor,,Billie H. Sutton,D,Candidate,B-,N
+South Dakota,Governor,,Kristi Lynn Noem,R,Candidate,A+,Y
+South Dakota,Lieutenant Governor,,Larry Rhoden,R,Candidate,A,Y
+South Dakota,Lieutenant Governor,,Michelle Lavallee,R,Candidate,?,N
+South Dakota,Secretary of State,,Steve Barnett,D,Candidate,AQ,Y
+South Dakota,Secretary of State,,Alexandra Frederick,D,Candidate,D,N
+South Dakota,US House,,Tim Bjorkman,D,Candidate,D,N
+South Dakota,US House,,Dusty Johnson,R,Candidate,AQ,Y
+Tennessee,Governor,,Karl Dean,D,Candidate,F,N
+Tennessee,Governor,,Bill Lee,R,Candidate,AQ,Y
+Tennessee,US House,1,Marty Olsen,D,Candidate,?,N
+Tennessee,US House,1,Phil Roe,R,Incumbent,A,Y
+Tennessee,US House,2,Renee Hoyos,D,Candidate,F,N
+Tennessee,US House,2,Tim Burchett,R,Candidate,A,Y
+Tennessee,US House,3,Danielle Mitchell,D,Candidate,F,N
+Tennessee,US House,3,Chuck Fleischmann,R,Incumbent,A,Y
+Tennessee,US House,4,Mariah Phillips,D,Candidate,F,N
+Tennessee,US House,4,Scott DesJarlais,R,Incumbent,A,Y
+Tennessee,US House,5,Jim Cooper,D,Incumbent,F,N
+Tennessee,US House,5,Jody M. Ball,R,Candidate,?,N
+Tennessee,US House,6,Dawn Barlow,D,Candidate,F,N
+Tennessee,US House,6,John Rose,R,Candidate,AQ,Y
+Tennessee,US House,7,Justin Kanew,D,Candidate,F,N
+Tennessee,US House,7,Mark E. Green,R,Candidate,A,Y
+Tennessee,US House,8,Erika Stotts Pearson,D,Candidate,?,N
+Tennessee,US House,8,David Kustoff,R,Incumbent,A,Y
+Tennessee,US House,9,Steve Cohen,D,Incumbent,F,N
+Tennessee,US House,9,Charlotte Bergmann,R,Candidate,AQ,N
+Tennessee,US Senate,,Phil Bredesen,D,Candidate,D,N
+Tennessee,US Senate,,Marsha Blackburn,R,Candidate,A,Y
+Texas,Attorney General,,Justin Nelson,D,Candidate,?,N
+Texas,Attorney General,,Ken Paxton,R,Incumbent,A+,Y
+Texas,Comptroller,,Joi Chevalier,D,Candidate,?,N
+Texas,Comptroller,,Glenn Hegar,R,Incumbent,A,Y
+Texas,Department of Agriculture,,Kim Olson,D,Candidate,?,N
+Texas,Department of Agriculture,,Sid Miller,R,Incumbent,A,Y
+Texas,General Land Office,,Miguel Suazo,D,Candidate,?,N
+Texas,General Land Office,,George P. Bush,R,Incumbent,A,Y
+Texas,Governor,,Lupe Valdez,D,Candidate,F,N
+Texas,Governor,,Greg Abbott,R,Incumbent,A+,Y
+Texas,Lieutenant Governor,,Mike Collier,D,Candidate,F,N
+Texas,Lieutenant Governor,,Dan Patrick,R,Incumbent,A+,Y
+Texas,Railroad Commissioner,,Roman McAllen,D,Candidate,?,N
+Texas,Railroad Commissioner,,Christi L. Craddick,R,Incumbent,AQ,Y
+Texas,US House,1,Shirley J. McKellar,D,Candidate,F,N
+Texas,US House,1,Louie Gohmert,R,Incumbent,B+,N
+Texas,US House,2,Todd Litton,D,Candidate,F,N
+Texas,US House,2,Dan Crenshaw,R,Candidate,AQ,Y
+Texas,US House,3,Lorie Burch,D,Candidate,F,N
+Texas,US House,3,Van Taylor,R,Candidate,A,Y
+Texas,US House,4,Catherine Krantz,D,Candidate,F,N
+Texas,US House,4,John Ratcliffe,R,Incumbent,A,Y
+Texas,US House,5,Dan Wood,D,Candidate,D,N
+Texas,US House,5,Lance Gooden,R,Candidate,A,Y
+Texas,US House,6,Jana Lynne Sanchez,D,Candidate,F,N
+Texas,US House,6,Ron Wright,R,Candidate,AQ,Y
+Texas,US House,7,Lizzie Pannill Fletcher,D,Candidate,F,N
+Texas,US House,7,John Culberson,R,Incumbent,A+,Y
+Texas,US House,8,Steven David,D,Candidate,F,N
+Texas,US House,8,Kevin Brady,R,Incumbent,A,Y
+Texas,US House,9,Al Green,D,Incumbent,F,N
+Texas,US House,10,Mike Siegel,D,Candidate,F,N
+Texas,US House,10,Michael McCaul,R,Incumbent,A,Y
+Texas,US House,11,Jennie Lou Leeder,D,Candidate,F,N
+Texas,US House,11,Mike Conaway,R,Incumbent,A+,Y
+Texas,US House,12,Vanessa Adia,D,Candidate,F,N
+Texas,US House,12,Kay Granger,R,Incumbent,A,Y
+Texas,US House,13,Greg Sagan,D,Candidate,F,N
+Texas,US House,13,Mac Thornberry,R,Incumbent,A,Y
+Texas,US House,14,Adrienne Bell,D,Candidate,F,N
+Texas,US House,14,Randy Weber,R,Incumbent,A,Y
+Texas,US House,15,Vicente Gonzalez,D,Incumbent,C,N
+Texas,US House,15,Tim Westley,R,Candidate,B+,N
+Texas,US House,16,Veronica Escobar,D,Candidate,F,N
+Texas,US House,16,Rick Seeberger,R,Candidate,AQ,N
+Texas,US House,17,Rick Kennedy,D,Candidate,D,N
+Texas,US House,17,Bill Flores,R,Incumbent,A,Y
+Texas,US House,18,Sheila Jackson Lee,D,Incumbent,F,N
+Texas,US House,18,Ava Reynero Pate,R,Candidate,AQ,N
+Texas,US House,19,Miguel Levario,D,Candidate,F,N
+Texas,US House,19,Jodey Arrington,R,Incumbent,A,Y
+Texas,US House,20,Joaquin Castro,D,Incumbent,F,N
+Texas,US House,21,Joseph Kopser,D,Candidate,F,N
+Texas,US House,21,Chip Roy,R,Candidate,AQ,Y
+Texas,US House,22,Sri Preston Kulkarni,D,Candidate,F,N
+Texas,US House,22,Pete Olson,R,Incumbent,A,Y
+Texas,US House,23,Gina Ortiz Jones,D,Candidate,F,N
+Texas,US House,23,Will Hurd,R,Incumbent,A,Y
+Texas,US House,24,Jan McDowell,D,Candidate,F,N
+Texas,US House,24,Kenny Marchant,R,Incumbent,A,Y
+Texas,US House,25,Julie Oliver,D,Candidate,F,N
+Texas,US House,25,Roger Williams,R,Incumbent,A,Y
+Texas,US House,26,Linsey Fagan,D,Candidate,F,N
+Texas,US House,26,Michael C. Burgess,R,Incumbent,A,Y
+Texas,US House,27,Eric Holguin,D,Candidate,F,N
+Texas,US House,27,Michael Cloud,R,Incumbent,A,Y
+Texas,US House,28,Henry Cuellar,D,Incumbent,A,Y
+Texas,US House,29,Sylvia R. Garcia,D,Candidate,F,N
+Texas,US House,29,Phillip Aronoff,R,Candidate,?,N
+Texas,US House,30,Eddie Bernice Johnson,D,Incumbent,F,N
+Texas,US House,31,"Mary Jennings ""MJ"" Hegar",D,Candidate,F,N
+Texas,US House,31,John Carter,R,Incumbent,A+,Y
+Texas,US House,32,Colin Allred,D,Candidate,F,N
+Texas,US House,32,Pete Sessions,R,Incumbent,A+,Y
+Texas,US House,33,Marc Veasey,D,Incumbent,F,N
+Texas,US House,33,Willie Billups,R,Candidate,AQ,N
+Texas,US House,34,Filemon B. Vela,D,Incumbent,D,N
+Texas,US House,34,Rey Gonzalez,R,Candidate,AQ,N
+Texas,US House,35,Lloyd Doggett,D,Incumbent,F,N
+Texas,US House,35,David Smalling,R,Candidate,AQ,N
+Texas,US House,36,Dayna Steele,D,Candidate,F,N
+Texas,US House,36,Brian Babin,R,Incumbent,A,Y
+Texas,US Senate,,Beto O'Rourke,D,Candidate,F,N
+Texas,US Senate,,Ted Cruz,R,Incumbent,A+,Y
+Utah,US House,1,Lee Castillo,D,Candidate,F,N
+Utah,US House,1,Rob Bishop,R,Incumbent,A+,Y
+Utah,US House,2,Shireen Ghorbani,D,Candidate,F,N
+Utah,US House,2,Chris Stewart,R,Incumbent,A,Y
+Utah,US House,3,James Singer,D,Candidate,F,N
+Utah,US House,3,John Curtis,R,Incumbent,A,Y
+Utah,US House,4,Ben McAdams,D,Candidate,F,N
+Utah,US House,4,Mia Love,R,Incumbent,A,Y
+Utah,US Senate,,Jenny Wilson,D,Candidate,F,N
+Utah,US Senate,,Mitt Romney,R,Candidate,A,Y
+Vermont,Attorney General,,TJ Donovan,D,Incumbent,F,N
+Vermont,Attorney General,,Janssen Willhoit,R,Candidate,A,Y
+Vermont,Auditor of Accounts,,Douglas R. Hoffer,D,Incumbent,?,N
+Vermont,Auditor of Accounts,,Richard Kenyon,R,Candidate,?,N
+Vermont,Governor,,Christine Hallquist,D,Candidate,D,N
+Vermont,Governor,,Phil B. Scott,R,Incumbent,D,N
+Vermont,Lieutenant Governor,,David E. Zuckerman,D,Incumbent,F,N
+Vermont,Lieutenant Governor,,Donald H. Turner,R,Candidate,A,Y
+Vermont,Secretary of State,,James C. Condos,D,Incumbent,?,N
+Vermont,Secretary of State,,H. Brooke Paige,R,Candidate,?,N
+Vermont,Treasurer,,Beth Pearce,D,Incumbent,?,N
+Vermont,Treasurer,,Richard Morton,R,Candidate,?,N
+Vermont,US House,,Peter Welch,D,Incumbent,F,N
+Vermont,US House,,Anya Tynio,R,Candidate,AQ,N
+Vermont,US Senate,,Bernie Sanders,I,Incumbent,F,N
+Vermont,US Senate,,Lawrence Zupan,R,Candidate,?,N
+Virginia,US House,1,Vangie Williams,D,Candidate,F,N
+Virginia,US House,1,Rob Wittman,R,Incumbent,A,Y
+Virginia,US House,2,Elaine Luria,D,Candidate,F,N
+Virginia,US House,2,Scott Taylor,R,Incumbent,A,Y
+Virginia,US House,3,Robert Scott,D,Incumbent,F,N
+Virginia,US House,4,Donald McEachin,D,Incumbent,F,N
+Virginia,US House,4,Ryan McAdams,R,Candidate,AQ,N
+Virginia,US House,5,Leslie Cockburn,D,Candidate,F,N
+Virginia,US House,5,Denver Riggleman,R,Candidate,AQ,Y
+Virginia,US House,6,Jennifer Lewis,D,Candidate,F,N
+Virginia,US House,6,Ben Cline,R,Candidate,A+,Y
+Virginia,US House,7,Abigail Spanberger,D,Candidate,F,N
+Virginia,US House,7,Dave Brat,R,Incumbent,A,Y
+Virginia,US House,8,Don Beyer,D,Incumbent,F,N
+Virginia,US House,8,Thomas Oh,R,Candidate,?,N
+Virginia,US House,9,Anthony Flaccavento,D,Candidate,D,N
+Virginia,US House,9,Morgan Griffith,R,Incumbent,A+,Y
+Virginia,US House,10,Jennifer Wexton,D,Candidate,F,N
+Virginia,US House,10,Barbara Comstock,R,Incumbent,A,Y
+Virginia,US House,11,Gerald Connolly,D,Incumbent,F,N
+Virginia,US House,11,Jeff Dove,R,Candidate,AQ,N
+Virginia,US Senate,,Tim Kaine,D,Incumbent,F,N
+Virginia,US Senate,,Corey Stewart,R,Candidate,A,Y
+Washington,US House,1,Suzan DelBene,D,Incumbent,F,N
+Washington,US House,1,Jeffrey Beeler,R,Candidate,AQ,N
+Washington,US House,2,Rick Larsen,D,Incumbent,F,N
+Washington,US House,2,Brian Luke,L,Candidate,AQ,N
+Washington,US House,3,Carolyn Long,D,Candidate,F,N
+Washington,US House,3,Jaime Herrera Beutler,R,Incumbent,A,Y
+Washington,US House,4,Christine Brown,D,Candidate,F,N
+Washington,US House,4,Dan Newhouse,R,Incumbent,A,Y
+Washington,US House,5,Lisa Brown,D,Candidate,F,N
+Washington,US House,5,Cathy McMorris Rodgers,R,Incumbent,A,Y
+Washington,US House,6,Derek Kilmer,D,Incumbent,F,N
+Washington,US House,6,Douglas Dightman,R,Candidate,AQ,N
+Washington,US House,7,Pramila Jayapal,D,Incumbent,F,N
+Washington,US House,7,Craig Keller,R,Candidate,AQ,N
+Washington,US House,8,Kim Schrier,D,Candidate,F,N
+Washington,US House,8,Dino Rossi,R,Candidate,A,Y
+Washington,US House,9,Adam Smith,D,Incumbent,F,N
+Washington,US House,9,Sarah Smith,D,Candidate,F,N
+Washington,US House,10,Denny Heck,D,Incumbent,F,N
+Washington,US House,10,Joseph Brumbles,R,Candidate,AQ,N
+Washington,US Senate,,Maria Cantwell,D,Incumbent,F,N
+Washington,US Senate,,Susan Hutchison,R,Candidate,AQ,N
+West Virginia,Justice of the Supreme Court,,Tim Armstead,NP,Candidate,,Y
+West Virginia,Justice of the Supreme Court,,Evan Jenkins,NP,Candidate,,Y
+West Virginia,US House,1,Kendra Fershee,D,Candidate,?,N
+West Virginia,US House,1,David McKinley,R,Incumbent,A,Y
+West Virginia,US House,2,Talley Sergent,D,Candidate,D,N
+West Virginia,US House,2,Alex Mooney,R,Incumbent,A,Y
+West Virginia,US House,3,Richard Ojeda,D,Candidate,?,N
+West Virginia,US House,3,Carol Miller,R,Candidate,A,Y
+West Virginia,US Senate,,Joe Manchin,D,Incumbent,D,N
+West Virginia,US Senate,,Patrick Morrisey,R,Candidate,A+,Y
+Wisconsin,Attorney General,,Josh Kaul,D,Candidate,?,N
+Wisconsin,Attorney General,,Brad Schimel,R,Incumbent,A+,Y
+Wisconsin,Governor,,Anthony S. Evers,D,Candidate,F,N
+Wisconsin,Governor,,Scott Walker,R,Incumbent,A+,Y
+Wisconsin,Lieutenant Governor,,Mandela Barnes,D,Candidate,F,N
+Wisconsin,Lieutenant Governor,,Rebecca Kleefisch,R,Incumbent,A,Y
+Wisconsin,Secretary of State,,Douglas J. La Follette,D,Incumbent,?,N
+Wisconsin,Secretary of State,,Jay Schroeder,R,Candidate,AQ,Y
+Wisconsin,Treasurer,,Sarah Godlewski,D,Candidate,?,N
+Wisconsin,Treasurer,,Travis Hartwig,R,Candidate,AQ,Y
+Wisconsin,US House,1,Randy Bryce,D,Candidate,F,N
+Wisconsin,US House,1,Bryan Steil,R,Candidate,AQ,Y
+Wisconsin,US House,2,Mark Pocan,D,Incumbent,F,N
+Wisconsin,US House,3,Ron Kind,D,Incumbent,C,N
+Wisconsin,US House,3,Steve Toft,R,Candidate,AQ,N
+Wisconsin,US House,4,Gwen S. Moore,D,Incumbent,F,N
+Wisconsin,US House,4,Tim Rogers,R,Candidate,AQ,N
+Wisconsin,US House,5,Tom Palzewicz,D,Candidate,F,N
+Wisconsin,US House,5,"F. James Sensenbrenner, Jr.",R,Incumbent,A,Y
+Wisconsin,US House,6,Dan Kohl,D,Candidate,?,N
+Wisconsin,US House,6,Glenn Grothman,R,Incumbent,A,Y
+Wisconsin,US House,7,Margaret Engebretson,D,Candidate,F,N
+Wisconsin,US House,7,Sean P. Duffy,R,Incumbent,A,Y
+Wisconsin,US House,8,Beau Liegeois,D,Candidate,F,N
+Wisconsin,US House,8,Mike Gallagher,R,Incumbent,A,Y
+Wisconsin,US Senate,,Tammy Baldwin,D,Incumbent,F,N
+Wisconsin,US Senate,,Leah Vukmir,R,Candidate,A+,Y
+Wyoming,Auditor,,Jeff Dockter,D,Candidate,?,N
+Wyoming,Auditor,,Kristi Racines,R,Candidate,AQ,Y
+Wyoming,Governor,,Mary A. Throne,D,Candidate,D,N
+Wyoming,Governor,,Mark Gordon,R,Candidate,A,Y
+Wyoming,Secretary of State,,James W. Byrd,D,Candidate,F,N
+Wyoming,Secretary of State,,Edward A. Buchanan,R,Incumbent,AQ,Y
+Wyoming,Treasurer,,Curt E. Meier,R,Candidate,A+,Y
+Wyoming,US House,,Greg Hunter,D,Candidate,?,N
+Wyoming,US House,,Liz Cheney,R,Incumbent,A,Y
+Wyoming,US Senate,,Gary Trauner,D,Candidate,D,N
+Wyoming,US Senate,,John Barrasso,R,Incumbent,A,Y
